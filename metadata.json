@@ -1,9 +1,9 @@
 {
   "owner": "ANTONIO GARCIA MACEDA",
-  "avatar": "URL_A_TU_FOTO_O_AVATAR_AQUI",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGoXBSlVC5jHg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689288367195?e=1764201600&v=beta&t=nzRWmkgpnjwZnJf9NStfvVEE6LuC8SdeYCxdpRtZIdg",
   "contact": {
     "github": "https://github.com/antoniogm96-design",
     "linkedin": "https://www.linkedin.com/in/antonio-garc%C3%ADa-maceda-58523913b/"
   },
-  "notesUrl": "URL_AL_ENDPOINT_DE_TU_LISTA_DE_NOTAS_AQUI"
+  "notesUrl": "https://raw.githubusercontent.com/antoniogm96-design/dev-notes/refs/heads/main/notes-list.json"
 }
