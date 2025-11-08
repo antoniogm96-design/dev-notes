@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Paso 1: Creando el archivo de Metadata",
+    "publishDate": "2025-11-08",
+    "summary": "Creación del archivo metadata.json en GitHub para definir mi identidad en la red de dev notes.",
+    "url": "01-creando-metadata.md"
+  },
+  {
+    "title": "Paso 2: Eligiendo el Stack",
+    "publishDate": "2025-11-08",
+    "summary": "Decidí usar GitHub como mi base de datos y servidor. Es la forma más rápida y fiel al estilo hacker.",
+    "url": "02-eligiendo-stack.md"
+  },
+  {
+    "title": "Paso 3: Entendiendo el Formato de Notas",
+    "publishDate": "2025-11-08",
+    "summary": "Aprendiendo sobre Markdown con Frontmatter para separar los metadatos del contenido.",
+    "url": "03-formato-de-notas.md"
+  },
+  {
+    "title": "Paso 4: Creando el Endpoint de la Lista",
+    "publishDate": "2025-11-08",
+    "summary": "El siguiente paso es crear un archivo JSON que liste todas mis notas y sus URLs.",
+    "url": "04-endpoint-lista.md"
+  },
+  {
+    "title": "Paso 5: Finalizando y Siguientes Pasos",
+    "publishDate": "2025-11-08",
+    "summary": "Terminando el Paso 1 y pensando en el cliente para consumir las notas de la comunidad.",
+    "url": "05-siguientes-pasos.md"
+  }
+]
